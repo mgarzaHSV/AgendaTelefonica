@@ -17,8 +17,8 @@ export const data = [
     "name": "MANTENIMIENTO",
     "department": "Mantenimiento",
     "extension": "102",
-    "phone": "",
-    "email": ""
+    "phone": "8120394463",
+    "email": "mantenimiento@hsvicente.com"
   },
   {
     "name": "DIAGNOSTICO 1",
@@ -45,7 +45,7 @@ export const data = [
     "name": "Vicente Rodriguez",
     "department": "Sistemas",
     "extension": "106",
-    "phone": "",
+    "phone": "8119091575",
     "email": "vrodriguez@hsanvicente.mx"
   },
   {
@@ -185,14 +185,14 @@ export const data = [
     "name": "Adelaida Bermea",
     "department": "Recursos Humanos",
     "extension": "126",
-    "phone": "",
+    "phone": "8119084481",
     "email": "abermea@hsanvicente.mx"
   },
   {
     "name": "Reclutamiento",
     "department": "Recursos Humanos",
     "extension": "127",
-    "phone": "",
+    "phone": "8120393380",
     "email": "reclutamiento@hsanvicente.mx"
   },
   {
@@ -218,9 +218,9 @@ export const data = [
   },
   {
     "name": "Claudia Ledezma",
-    "department": "Ttrabajo Sociall",
+    "department": "Trabajo Social",
     "extension": "131",
-    "phone": "",
+    "phone": "8120398010",
     "email": "cledezma@hsanvicente.mx"
   },
   {
@@ -248,7 +248,7 @@ export const data = [
     "name": "Cont Manuel Hernandez",
     "department": "Contabilidad",
     "extension": "135",
-    "phone": "",
+    "phone": "8120395900",
     "email": "mhernandez@hsanvicente.mx"
   },
   {
@@ -269,7 +269,7 @@ export const data = [
     "name": "Dylan Lopez",
     "department": "Sistemas",
     "extension": "138",
-    "phone": "",
+    "phone": "8119091562",
     "email": "dlopez@hsanvicente.mx"
   },
   {
@@ -287,7 +287,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCION TOMOGRAFIA",
+    "name": "RECEPCIÓN TOMOGRAFIA",
     "department": "Tomografia",
     "extension": "141",
     "phone": "",
@@ -297,7 +297,7 @@ export const data = [
     "name": "Dra Nancy Enriquez",
     "department": "Tomografia",
     "extension": "142",
-    "phone": "",
+    "phone": "8120322926",
     "email": "nenriquez@hsanvicente.mx"
   },
   {
@@ -308,7 +308,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCION RESONANCIA",
+    "name": "RECEPCIÓN RESONANCIA",
     "department": "Resonancia",
     "extension": "144",
     "phone": "",
@@ -339,7 +339,7 @@ export const data = [
     "name": "Ivan Rojas",
     "department": "Gestion",
     "extension": "148",
-    "phone": "",
+    "phone": "8117982427",
     "email": "irojas@hsanvicente.mx"
   },
   {
@@ -388,21 +388,21 @@ export const data = [
     "name": "Karina Perez",
     "department": "Farmacia",
     "extension": "155",
-    "phone": "",
+    "phone": "8123216062",
     "email": "kperez@hsanvicente.mx"
   },
   {
     "name": "Miguel Romero",
     "department": "Farmacia",
     "extension": "156",
-    "phone": "",
+    "phone": "8120401732",
     "email": "eromero@hsanvicente.mx"
   },
   {
     "name": "Walter Barboza",
     "department": "Farmacia",
     "extension": "157",
-    "phone": "",
+    "phone": "8118021800",
     "email": "wbarboza@hsanvicente.mx"
   },
   {
@@ -458,7 +458,7 @@ export const data = [
     "name": "Leticia Lopez",
     "department": "Admision",
     "extension": "165",
-    "phone": "",
+    "phone": "8120017244",
     "email": "llopez@hsanvicente.mx"
   },
   {
@@ -514,7 +514,7 @@ export const data = [
     "name": "Gerardo de Leon",
     "department": "Vigilancia",
     "extension": "173",
-    "phone": "",
+    "phone": "8122021350",
     "email": "gchavez@hsanvicente.mx"
   },
   {
@@ -654,8 +654,8 @@ export const data = [
     "name": "Marina Balderas",
     "department": "Compras",
     "extension": "193",
-    "phone": "",
-    "email": ""
+    "phone": "8120299940",
+    "email": "mbalderas@hsanvicente.mx"
   },
   {
     "name": "Laura Pineda",
@@ -692,6 +692,14 @@ export const data = [
     "phone": "",
     "email": ""
   },
+  {
+    "name" : "Andrea Martinez",
+    "department": "Nutricion",
+    "extension": "199",
+    "phone": "8119994379",
+    "email": "amartinez@hsanvicente.mx"
+  },
+
   {
     "name": "NUTRICION",
     "department": "Nutricion",
@@ -794,7 +802,7 @@ export const data = [
     "name": "Julio Leyva",
     "department": "Sistemas",
     "extension": "213",
-    "phone": "",
+    "phone": "8119091762",
     "email": "jleyva@hsanvicente.mx"
   },
   {
@@ -983,8 +991,8 @@ export const data = [
     "name": "Rocio Rangel",
     "department": "Enfermeria",
     "extension": "240",
-    "phone": "",
-    "email": ""
+    "phone": "8120381113",
+    "email": "rrangel@hsanvicente.mx"
   },
   {
     "name": "",
@@ -997,8 +1005,8 @@ export const data = [
     "name": "BIOMEDICA",
     "department": "Biomedica",
     "extension": "242",
-    "phone": "",
-    "email": ""
+    "phone": "8120401636",
+    "email": "biomedico@hsvicente.com"
   },
   {
     "name": "ALMACEN ENFERMERAS 2P-2",
@@ -1032,8 +1040,8 @@ export const data = [
     "name": "SUPERVISOR ENFERMERIA 2P-1",
     "department": "Enfermeria",
     "extension": "247",
-    "phone": "",
-    "email": ""
+    "phone": "8123518359",
+    "email": "supervisionpiso@hsvicente.com"
   },
   {
     "name": "",
@@ -1540,7 +1548,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "ENSE�ANZA ENFERMERIA",
+    "name": "ENSEÑANZA ENFERMERIA",
     "department": "Enfermeria",
     "extension": "320",
     "phone": "",
@@ -2373,7 +2381,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCION ENFERMERAS 4-2",
+    "name": "RECEPCIÓN ENFERMERAS 4-2",
     "department": "Enfermeria",
     "extension": "439",
     "phone": "",
@@ -2390,18 +2398,18 @@ export const data = [
     "name": "SUPERVISOR ENFERMERIA 4P-2",
     "department": "Enfermeria",
     "extension": "441",
-    "phone": "",
-    "email": ""
+    "phone": "8123518359",
+    "email": "supervisionpiso@hsvicente.com"
   },
   {
-    "name": "RECEPCI�N ENFERMERAS 4-1",
+    "name": "RECEPCIÓN ENFERMERAS 4-1",
     "department": "Enfermeria",
     "extension": "442",
     "phone": "",
     "email": ""
   },
   {
-    "name": "RECEPCI�N ENFERMERAS 4-1B",
+    "name": "RECEPCIÓN ENFERMERAS 4-1B",
     "department": "Enfermeria",
     "extension": "443",
     "phone": "",
@@ -2411,8 +2419,8 @@ export const data = [
     "name": "SUPERVISOR ENFERMERIA 4P-1",
     "department": "Enfermeria",
     "extension": "444",
-    "phone": "",
-    "email": ""
+    "phone": "8123518359",
+    "email": "supervisionpiso@hsvicente.com"
   },
   {
     "name": "ALMACEN ENFERMERIA 4P-1",
