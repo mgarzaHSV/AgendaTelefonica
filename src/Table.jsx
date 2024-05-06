@@ -31,11 +31,11 @@ export function Table(){
                 <input onChange={(e) => setDepartment(e.target.value)} placeholder='Eje: Sistemas' type="text" name="nombreDepartamento" id="nomDpt"/>
             </div>
             <div className="extension">
-                <label htmlFor="extension">Extension:</label>
+                <label htmlFor="extension">Extensión:</label>
                 <input onChange={(e) => setExtension(e.target.value)} placeholder= 'Eje: 100' type="text" name="extension" id="numExt"/>
             </div>
             <div className="email">
-                <label htmlFor="email">Correo Electronico:</label>
+                <label htmlFor="email">Correo electrónico:</label>
                 <input onChange={(e) => setEmail(e.target.value)} placeholder='Eje: nom...@hsanvicente.mx' type="text" name="email" id="email"/>
             </div>
         </section>
@@ -44,9 +44,9 @@ export function Table(){
                     <tr>
                         <th>Nombre</th>
                         <th>Departamento</th>
-                        <th>Extension</th>
+                        <th>Extensión</th>
                         <th>Celular</th>
-                        <th>Email</th>
+                        <th>Correo electrónico</th>
                     </tr>
                 </thead>
                 <tbody>
