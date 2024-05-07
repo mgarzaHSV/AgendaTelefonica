@@ -83,3 +83,15 @@ tfoot {
     background-color: black;
     color: #fff;
 }
+
+table td{
+    font-weight: 500;
+}
+
+table th {
+    font-weight: 800;
+}
+
+h1 {
+    font-weight: 600;
+}

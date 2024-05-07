@@ -53,8 +53,8 @@ export function Table(){
                     {informationShowed.map((element,index) => {
                         if(element.name != ""){
                             return <tr key={index}>
-                            <td>{element.name}</td>
-                            <td>{element.department}</td>
+                            <td>{element.name.toUpperCase()}</td>
+                            <td>{element.department.toUpperCase()}</td>
                             <td>{element.extension}</td>
                             <td>{element.phone}</td>
                             <td>{element.email}</td>

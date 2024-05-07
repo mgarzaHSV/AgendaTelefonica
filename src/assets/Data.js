@@ -1,77 +1,77 @@
 export const data = [
   {
     "name": "CONMUTADOR 1",
-    "department": "Conmutador",
+    "department": "CONMUTADOR",
     "extension": "100",
     "phone": "",
     "email": ""
   },
   {
     "name": "CONMUTADOR 2",
-    "department": "Conmutador",
+    "department": "CONMUTADOR",
     "extension": "101",
     "phone": "",
     "email": ""
   },
   {
     "name": "MANTENIMIENTO",
-    "department": "Mantenimiento",
+    "department": "MANTENIMIENTO",
     "extension": "102",
     "phone": "8120394463",
     "email": "mantenimiento@hsvicente.com"
   },
   {
     "name": "DIAGNOSTICO 1",
-    "department": "Diagnostico",
+    "department": "DIAGNOSTICO",
     "extension": "103",
     "phone": "",
     "email": ""
   },
   {
     "name": "DIAGNOSTICO 2",
-    "department": "Diagnostico",
+    "department": "DIAGNOSTICO",
     "extension": "104",
     "phone": "",
     "email": ""
   },
   {
     "name": "OFICINA  MTTO",
-    "department": "Mantenimiento",
+    "department": "MANTENIMIENTO",
     "extension": "105",
     "phone": "",
     "email": ""
   },
   {
-    "name": "Vicente Rodriguez",
-    "department": "Sistemas",
+    "name": "VICENTE RODRIGUEZ",
+    "department": "SISTEMAS",
     "extension": "106",
     "phone": "8119091575",
     "email": "vrodriguez@hsanvicente.mx"
   },
   {
-    "name": "CAJA DIAGNISTICO",
-    "department": "Diagnostico",
+    "name": "CAJA DIAGNOSTICO",
+    "department": "DIAGNOSTICO",
     "extension": "107",
     "phone": "",
     "email": ""
   },
   {
-    "name": "Sor Rigoberta Sanchez",
-    "department": "Direccion",
+    "name": "SOR RIGOBERTA SANCHEZ",
+    "department": "DIRECCION",
     "extension": "108",
     "phone": "",
     "email": ""
   },
   {
     "name": "RECEPCION ESPECIALISTAS 1",
-    "department": "Consultorios p1",
+    "department": "CONSULTORIOS PISO 1",
     "extension": "109",
     "phone": "",
     "email": ""
   },
   {
     "name": "RECEPCION ESPECIALISTAS 2",
-    "department": "Consultorios p1",
+    "department": "CONSULTORIOS PISO 1",
     "extension": "110",
     "phone": "",
     "email": ""
@@ -176,77 +176,77 @@ export const data = [
   },
   {
     "name": "DR. JESUS TAMEZ",
-    "department": "Consultorios p1",
+    "department": "CONSULTORIOS PISO 1",
     "extension": "125",
     "phone": "",
     "email": "jtamez@hsanvicente.mx"
   },
   {
-    "name": "Adelaida Bermea",
-    "department": "Recursos Humanos",
+    "name": "ADELAIDA BERMEA",
+    "department": "RECURSOS HUMANOS",
     "extension": "126",
     "phone": "8119084481",
     "email": "abermea@hsanvicente.mx"
   },
   {
-    "name": "Reclutamiento",
-    "department": "Recursos Humanos",
+    "name": "RECLUTAMIENTO",
+    "department": "RECURSOS HUMANOS",
     "extension": "127",
     "phone": "8120393380",
     "email": "reclutamiento@hsanvicente.mx"
   },
   {
     "name": "CENTRAL DE EQUIPOS 1",
-    "department": "Central de Equipos",
+    "department": "CENTRAL DE EQUIPOS",
     "extension": "128",
     "phone": "",
     "email": "centralequipos@hsanvicente.mx"
   },
   {
     "name": "CENTRAL DE EQUIPOS 2",
-    "department": "Central de Equipos",
+    "department": "CENTRAL DE EQUIPOS",
     "extension": "129",
     "phone": "",
     "email": "centralequipos@hsanvicente.mx"
   },
   {
     "name": "RESONANCIA PLANTA BAJA",
-    "department": "Resonancia",
+    "department": "RESONANCIA",
     "extension": "130",
     "phone": "",
     "email": ""
   },
   {
-    "name": "Claudia Ledezma",
-    "department": "Trabajo Social",
+    "name": "CLAUDIA LEDEZMA",
+    "department": "TRABAJO SOCIAL",
     "extension": "131",
     "phone": "8120398010",
     "email": "cledezma@hsanvicente.mx"
   },
   {
     "name": "CASA SOR 2",
-    "department": "Casa Sor",
+    "department": "CASA SOR",
     "extension": "132",
     "phone": "",
     "email": ""
   },
   {
     "name": "CASA SOR 1",
-    "department": "Casa Sor",
+    "department": "CASA SOR",
     "extension": "133",
     "phone": "",
     "email": ""
   },
   {
     "name": "CONTABILIDAD 2",
-    "department": "Contabilidad",
+    "department": "CONTABILIDAD",
     "extension": "134",
     "phone": "",
     "email": ""
   },
   {
-    "name": "Cont Manuel Hernandez",
-    "department": "Contabilidad",
+    "name": "CONT MANUEL HERNANDEZ",
+    "department": "CONTABILIDAD",
     "extension": "135",
     "phone": "8120395900",
     "email": "mhernandez@hsanvicente.mx"
@@ -260,7 +260,7 @@ export const data = [
   },
   {
     "name": "CONTABILIDAD 3",
-    "department": "Contabilidad",
+    "department": "CONTABILIDAD",
     "extension": "137",
     "phone": "",
     "email": ""
@@ -287,7 +287,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCIÓN TOMOGRAFIA",
+    "name": "RECEPCION TOMOGRAFIA",
     "department": "Tomografia",
     "extension": "141",
     "phone": "",
@@ -308,7 +308,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCIÓN RESONANCIA",
+    "name": "RECEPCION RESONANCIA",
     "department": "Resonancia",
     "extension": "144",
     "phone": "",
@@ -455,11 +455,11 @@ export const data = [
     "email": ""
   },
   {
-    "name": "Leticia Lopez",
-    "department": "Admision",
+    "name": "Ana Karina Herrera",
+    "department": "Calidad",
     "extension": "165",
-    "phone": "8120017244",
-    "email": "llopez@hsanvicente.mx"
+    "phone": "8118023882",
+    "email": "aherrera@hsanvicente.mx"
   },
   {
     "name": "PRUEBAS COVID",
@@ -518,15 +518,15 @@ export const data = [
     "email": "gchavez@hsanvicente.mx"
   },
   {
-    "name": "CLINICA DE LA MUJER",
-    "department": "Consulta Externa",
+    "name": "RECEPCION CLINICA DE LA MUJER",
+    "department": "Clinica de la mujer",
     "extension": "174",
     "phone": "",
     "email": ""
   },
   {
-    "name": "DIAGNISTICO CLINICA MUJER",
-    "department": "Consulta Externa",
+    "name": "DIAGNOSTICO CLINICA MUJER",
+    "department": "Clinica de la mujer",
     "extension": "175",
     "phone": "",
     "email": ""
@@ -2381,7 +2381,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RECEPCIÓN ENFERMERAS 4-2",
+    "name": "RECEPCION ENFERMERAS 4-2",
     "department": "Enfermeria",
     "extension": "439",
     "phone": "",
@@ -2402,14 +2402,14 @@ export const data = [
     "email": "supervisionpiso@hsvicente.com"
   },
   {
-    "name": "RECEPCIÓN ENFERMERAS 4-1",
+    "name": "RECEPCION ENFERMERAS 4-1",
     "department": "Enfermeria",
     "extension": "442",
     "phone": "",
     "email": ""
   },
   {
-    "name": "RECEPCIÓN ENFERMERAS 4-1B",
+    "name": "RECEPCION ENFERMERAS 4-1B",
     "department": "Enfermeria",
     "extension": "443",
     "phone": "",
