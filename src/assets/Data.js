@@ -1002,7 +1002,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "BIOMEDICA",
+    "name": "Maria Fernanda Herrera",
     "department": "Biomedica",
     "extension": "242",
     "phone": "8120401636",
