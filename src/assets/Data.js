@@ -427,7 +427,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "COCINA 2",
+    "name": "CAFETERIA 2",
     "department": "Cafeteria",
     "extension": "161",
     "phone": "",
