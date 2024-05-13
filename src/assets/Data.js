@@ -420,21 +420,21 @@ export const data = [
     "email": "Almacen@hsanvicente.mx"
   },
   {
-    "name": "CAFETERIA",
+    "name": "CAFETERIA 1",
     "department": "Cafeteria",
     "extension": "160",
     "phone": "",
     "email": ""
   },
   {
-    "name": "COCINA PB",
+    "name": "COCINA 2",
     "department": "Cafeteria",
     "extension": "161",
     "phone": "",
     "email": ""
   },
   {
-    "name": "COCINA SOTANO",
+    "name": "Nutricion",
     "department": "Nutricion",
     "extension": "162",
     "phone": "",
@@ -698,14 +698,6 @@ export const data = [
     "extension": "199",
     "phone": "8119994379",
     "email": "amartinez@hsanvicente.mx"
-  },
-
-  {
-    "name": "NUTRICION",
-    "department": "Nutricion",
-    "extension": "199",
-    "phone": "",
-    "email": ""
   },
   {
     "name": "",
