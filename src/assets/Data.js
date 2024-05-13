@@ -637,11 +637,11 @@ export const data = [
     "email": ""
   },
   {
-    "name": "",
-    "department": "",
+    "name": "Fatima Flores",
+    "department": "Ventas",
     "extension": "191",
-    "phone": "",
-    "email": ""
+    "phone": "8123517934",
+    "email": "ventas@hsvicente.com"
   },
   {
     "name": "CAJA GENERAL",
