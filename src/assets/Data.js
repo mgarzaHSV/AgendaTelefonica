@@ -2798,5 +2798,40 @@ export const data = [
     "extension": "499",
     "phone": "",
     "email": ""
-  }
+  },
+  {
+    "name": "Recepcion Escuela",
+    "department": "Escuela",
+    "extension": "560",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Administracion Escuela",
+    "department": "Escuela",
+    "extension": "561",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Direccion Escuela",
+    "department": "Escuela",
+    "extension": "562",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Oficina Psicologia",
+    "department": "Escuela",
+    "extension": "563",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "Biblioteca Escuela",
+    "department": "Escuela",
+    "extension": "564",
+    "phone": "",
+    "email": ""
+  },
 ];
