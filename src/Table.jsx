@@ -50,18 +50,22 @@ export function Table(){
                     </tr>
                 </thead>
                 <tbody>
-                    {informationShowed.map((element,index) => {
-                        if(element.name != ""){
-                            return <tr key={index}>
-                            <td>{element.name.toUpperCase()}</td>
-                            <td>{element.department.toUpperCase()}</td>
-                            <td>{element.extension}</td>
-                            <td>{element.phone}</td>
-                            <td>{element.email}</td>
-                            </tr> 
-                        }
-                        }
-                    )
+
+                    {informationShowed.length == 0 ? <tr key={1}>
+                                    <td colSpan={5}>No se encontraron coincidencias.</td>
+                                    </tr>  :
+                    informationShowed.map((element, index) => {
+                            if(element.name != ""){
+                                    return <tr key={index}>
+                                    <td style={{width:'350px'}} >{element.name.toUpperCase()}</td>
+                                    <td style={{width:'200px'}} >{element.department.toUpperCase()}</td>
+                                    <td style={{width:'80px'}}  >{element.extension}</td>
+                                    <td style={{width:'100px'}} >{element.phone}</td>
+                                    <td style={{width:'300px'}} >{element.email}</td>
+                                    </tr> 
+                                    }
+                                }
+                            )
                     }
                 </tbody>
                 <tfoot>

@@ -147,8 +147,8 @@ export const data = [
     "email": ""
   },
   {
-    "name": "",
-    "department": "",
+    "name": "DR. Cesar Peña",
+    "department": "CONSULTORIOS PISO 1",
     "extension": "121",
     "phone": "",
     "email": ""
@@ -238,11 +238,11 @@ export const data = [
     "email": ""
   },
   {
-    "name": "CONTABILIDAD 2",
-    "department": "CONTABILIDAD",
+    "name": "Thalia Coronado",
+    "department": "Archivo",
     "extension": "134",
     "phone": "",
-    "email": ""
+    "email": "tcoronado@hsanvicente.mx"
   },
   {
     "name": "CONT MANUEL HERNANDEZ",
@@ -329,7 +329,7 @@ export const data = [
     "email": ""
   },
   {
-    "name": "RAYOS X 3",
+    "name": "RECEPCION Rayos X",
     "department": "Rayos X",
     "extension": "147",
     "phone": "",
@@ -2800,6 +2800,173 @@ export const data = [
     "email": ""
   },
   {
+    "name": "DR. OLEGARIO CHAVEZ",
+    "department": "CENTRO MEDICO",
+    "extension": "501",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. PEDRO LOPEZ HDZ",
+    "department": "CENTRO MEDICO",
+    "extension": "501",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. RICARDO ALVARADO",
+    "department": "CENTRO MEDICO",
+    "extension": "501",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. ANA MIVERVA HUBBAR",
+    "department": "CENTRO MEDICO",
+    "extension": "505",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. JORGE SANCHEZ",
+    "department": "CENTRO MEDICO",
+    "extension": "507",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. ALFONSO ALFARO",
+    "department": "CENTRO MEDICO",
+    "extension": "507",
+    "phone": "",
+    "email": ""
+  },{
+    "name": "DR. ALEJANDRO ERHARD",
+    "department": "CENTRO MEDICO",
+    "extension": "510",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. JOSE ALBERTO GARCIA",
+    "department": "CENTRO MEDICO",
+    "extension": "513",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. CARLOS E. BAÑUELOS",
+    "department": "CENTRO MEDICO",
+    "extension": "513",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. ENRIQUE SAUCEDO",
+    "department": "CENTRO MEDICO",
+    "extension": "515",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DRA. VERONICA RODRIGUEZ",
+    "department": "CENTRO MEDICO",
+    "extension": "515",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. JUAN MANUEL CALDERON",
+    "department": "CENTRO MEDICO",
+    "extension": "515",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DRA. ANDREA MARTINEZ",
+    "department": "CENTRO MEDICO",
+    "extension": "515",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. ROBERTO MONREAL",
+    "department": "CENTRO MEDICO",
+    "extension": "515",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR: RAMIRO SALINAS",
+    "department": "CENTRO MEDICO",
+    "extension": "518",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. JOSE GUSTAVO ARRAMBIDE",
+    "department": "CENTRO MEDICO",
+    "extension": "520",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. ALBERTO DIAS",
+    "department": "CENTRO MEDICO",
+    "extension": "522",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. HECTOR ARMANDO",
+    "department": "CENTRO MEDICO",
+    "extension": "522",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. GERARDO ALMAGUER",
+    "department": "CENTRO MEDICO",
+    "extension": "526",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. JENARO CORONA",
+    "department": "CENTRO MEDICO",
+    "extension": "528",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "GRACIANO DELA FUENTE",
+    "department": "CENTRO MEDICO",
+    "extension": "528",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DR. RICARDO DE LUNA",
+    "department": "CENTRO MEDICO",
+    "extension": "528",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "DRA. MARGARITA SOLIS",
+    "department": "CENTRO MEDICO",
+    "extension": "528",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "name": "",
+    "department": "CENTRO MEDICO",
+    "extension": "",
+    "phone": "",
+    "email": ""
+  },
+  {
     "name": "Recepcion Escuela",
     "department": "Escuela",
     "extension": "560",
@@ -2833,5 +3000,5 @@ export const data = [
     "extension": "564",
     "phone": "",
     "email": ""
-  },
+  }
 ];
