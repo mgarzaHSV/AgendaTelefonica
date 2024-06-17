@@ -673,7 +673,7 @@ export const data = [
   },
   {
     "name": "Blanca Caballero",
-    "department": "Compras",
+    "department": "CAJAS",
     "extension": "196",
     "phone": "",
     "email": ""
@@ -1452,8 +1452,8 @@ export const data = [
     "name": "UVEH",
     "department": "Uveh",
     "extension": "307",
-    "phone": "",
-    "email": ""
+    "phone": "8135520893",
+    "email": "epidemiologicah@hsanvicente.mx"
   },
   {
     "name": "",
